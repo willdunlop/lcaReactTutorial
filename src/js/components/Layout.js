@@ -21,9 +21,9 @@ export default class Layout extends React.Component {
 				<div>
 					<Header title={this.state.title}/>
 					<Header title={"Other Title"}/>
-
 					<Footer />
 				</div>
 			  );
+				
 	}
 }
